@@ -25,4 +25,5 @@
 
 ## 🎨 Hobbies
 - Hiking
-- Reading books
+- Playing Dodgeball
+- Video Games
